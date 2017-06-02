@@ -4,6 +4,7 @@
 
       "id":"1",
       "title"  :"15' Macbook Air",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatem nobis error beatae. Fuga optio voluptates sit reiciendis iusto omnis inventore ratione culpa, sapiente, iste ipsam? Veniam nulla incidunt consectetur.",
       "price"  :1700,
       "posted" :"2017-01-13",
       "contact": {
@@ -23,6 +24,7 @@
 
       "id":"2",
       "title"  :"iMac",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatem nobis error beatae. Fuga optio voluptates sit reiciendis iusto omnis inventore ratione culpa, sapiente, iste ipsam? Veniam nulla incidunt consectetur.",
       "price"  :2200,
       "posted" :"2017-01-13",
       "contact": {
@@ -42,6 +44,7 @@
 
       "id":"3",
       "title"  :"Mac Pro",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatem nobis error beatae. Fuga optio voluptates sit reiciendis iusto omnis inventore ratione culpa, sapiente, iste ipsam? Veniam nulla incidunt consectetur.",
       "price"  :2550,
       "posted" :"2017-01-13",
       "contact": {
@@ -61,6 +64,7 @@
 
       "id":"4",
       "title"  :" 13' Macbook air",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatem nobis error beatae. Fuga optio voluptates sit reiciendis iusto omnis inventore ratione culpa, sapiente, iste ipsam? Veniam nulla incidunt consectetur.",
       "price"  :6000,
       "posted" :"2017-01-13",
       "contact": {
@@ -80,6 +84,7 @@
 
       "id":"5",
       "title"  :" 15' Macbook Pro",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatem nobis error beatae. Fuga optio voluptates sit reiciendis iusto omnis inventore ratione culpa, sapiente, iste ipsam? Veniam nulla incidunt consectetur.",
       "price"  :6000,
       "posted" :"2017-01-13",
       "contact": {
@@ -99,6 +104,7 @@
 
       "id":"6",
       "title"  :" Apple Watch",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum voluptatem nobis error beatae. Fuga optio voluptates sit reiciendis iusto omnis inventore ratione culpa, sapiente, iste ipsam? Veniam nulla incidunt consectetur.",
       "price"  :600,
       "posted" :"2017-01-13",
       "contact": {
