@@ -40,6 +40,11 @@
         
      }
 
+     $scope.editClassified = function(){
+      $scope.editing = true;
+      $scope.openSidebar();
+     }
+
 
     });
 
