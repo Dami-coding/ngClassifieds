@@ -19,8 +19,22 @@
         <md-icon class="mdi mdi-plus-circle"></md-icon>
         New Classified
       </md-button>
+
+      <md-button ng-click="showFilters = true">
+        <md-icon class="mdi mdi-magnify"></md-icon>
+        Search
+      </md-button>
+
     </div>
   </md-toolbar>
+
+
+  <div class="filters" layout="row" layout-align="center center" ng-show="showFilters">
+  <md-input-container>
+    <label>Enter search term</label>
+    <input type="text" ng-model="classsifiedsFilter">
+  </md-input-container>
+  </div>
 
 <md-sidenav class="md-sidenav-left md-whiteframe-z2" md-component-id="left">
     <md-toolbar>
