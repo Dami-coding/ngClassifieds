@@ -36,6 +36,15 @@
   </md-input-container>
   </div>
 
+
+  <md-input-container>
+    <label>Category</label>
+  <md-select>
+    <md-option ng-repeat="ngClassified in ngClassifieds" value="{{ category }}" >{{ category }}</md-option>
+  </md-select>
+  </md-input-container>
+  </div>
+
 <md-sidenav class="md-sidenav-left md-whiteframe-z2" md-component-id="left">
     <md-toolbar>
       <h1 class="md-toolbar-tools">Add a Classifieds</h1>
